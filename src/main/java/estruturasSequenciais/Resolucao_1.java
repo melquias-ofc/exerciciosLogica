@@ -27,6 +27,7 @@ public class Resolucao_1 {
 		
 		
 		sc.close();
+		
 
 	}
 	
