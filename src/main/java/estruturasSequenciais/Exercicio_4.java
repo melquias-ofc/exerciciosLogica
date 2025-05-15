@@ -2,7 +2,7 @@ package estruturasSequenciais;
 
 public class Exercicio_4 {
 	
-	/* PROBLEMA - TERRENO:
+	/* PROBLEMA - SOMA:
 	 
 	 Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes 
 	 números.
