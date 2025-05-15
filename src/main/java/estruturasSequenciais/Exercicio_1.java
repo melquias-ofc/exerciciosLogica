@@ -2,7 +2,7 @@ package estruturasSequenciais;
 
 public class Exercicio_1 {
 	
-	/* PROBLEMA - TERRENO:
+	/* PROBLEMA - TERRENO :
 	 
 	 Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma
 	 casa decimal, bem como o valor do metro quadrado do terreno com duas casas decimais. Em seguida,
@@ -20,4 +20,5 @@ public class Exercicio_1 {
 	 
 	 */
 
+	
 }
