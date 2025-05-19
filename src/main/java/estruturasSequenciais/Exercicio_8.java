@@ -14,5 +14,7 @@ public class Exercicio_8 {
 	 Combustível gasto: 71.4 
 	 Consumo medio = 15.518
 	 
+	 
+	 
 	 */
 }
