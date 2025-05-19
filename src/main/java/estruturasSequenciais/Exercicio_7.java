@@ -16,5 +16,7 @@ public class Exercicio_7 {
 	 O pagamento para Joao Lucas deve ser 3000.00 
 	 
 	 
+	 
+	 
 	 */
 }
