@@ -20,5 +20,7 @@ public class Exercicio_9 {
 	AREA DO TRIANGULO = 7.0000 
 	AREA DO TRAPEZIO = 19.5000 
 	 
+	 
+	 
 	 */
 }
